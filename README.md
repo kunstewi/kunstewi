@@ -24,7 +24,7 @@
 
 ### games (vanilla js)
 - [chess](https://github.com/kunstewi/chess) - a chess game with features like playing with friends, chess clock.
-- [bricks](https://github.com/kunstewi/progress-landing) - a bricks and ball game made using vanilla js.
+- [bricks](https://github.com/kunstewi/brickball) - a bricks and ball game made using vanilla js.
 
 ### deep tech projects
 
