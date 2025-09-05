@@ -28,4 +28,4 @@
 
 ### deep tech projects
 
--[c-http-server](https://github.com/kunstewi/c-http-server) - a http server written in c from scratch.
+- [c-http-server](https://github.com/kunstewi/c-http-server) - a http server written in c from scratch.
