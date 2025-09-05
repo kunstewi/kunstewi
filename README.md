@@ -1,15 +1,9 @@
 # portfolio ; )
 
-### full stack web apps (mern + vite)
-- [achiever](https://github.com/kunstewi/achiever) - this app allows users to manage tasks efficiently with an intuitive interface, create, update, and track tasks with due dates and priorities, automated status updates, and assign tasks to multiple users and track completion etc.
-- [blogger](https://github.com/kunstewi/blogger) - this is a mern blog app with markdown support and ai powered blog post generator.
-- [interviewer](https://github.com/kunstewi/interviewer) - this app allows users to generate personalized interview questions and answers based on their role and experience, take notes, and review topics using ai-generated explanations.
-- [spender](https://github.com/kunstewi/spender) - a fully responsive expense tracker app using the mern stack! this app includes user authentication with jwt, income and expense tracking, interactive charts, and the ability to export data in excel format.
-
 ### landing pages (html, css, js)
-- [restaurant-website](https://github.com/kunstewi/the-banquet) - a beautiful landing page of a high end retaurant with menu and contact sections.
-- [real-estate-website](https://github.com/kunstewi/real-estate-website) - a beautiful landing page of a real estate company that showcases properties, prices and perks.
-- [pet-adoption-website](https://github.com/kunstewi/pet-adoption-website) - a beautiful landing page for a pet adoption agency shop.
+- [restaurant](https://github.com/kunstewi/the-banquet) - a beautiful landing page of a high end retaurant with menu and contact sections.
+- [real-estate](https://github.com/kunstewi/real-estate-website) - a beautiful landing page of a real estate company that showcases properties, prices and perks.
+- [pet-adoption](https://github.com/kunstewi/pet-adoption-website) - a beautiful landing page for a pet adoption agency shop.
 
 ### landing pages (vite + react)
 - [smartnotes](https://github.com/kunstewi/smartnotes-landing) - a beautiful landing page made with react.js, vite and tailwind css.
@@ -21,6 +15,12 @@
 - [startup](https://github.com/kunstewi/startup-landing) - a beautiful landing page made with next.js and tailwind css.
 - [venture](https://github.com/kunstewi/venture) - A beautiful landing page made with next.js and tailwind css.
 - [progress](https://github.com/kunstewi/progress-landing) - a beautiful landing page made with next.js and tailwind css.
+
+### full stack web apps (mern + vite)
+- [achiever](https://github.com/kunstewi/achiever) - this is a task management web app with progress tracking for teams and personal use.
+- [blogger](https://github.com/kunstewi/blogger) - this is a blog app with markdown support and ai powered blog post generator.
+- [interviewer](https://github.com/kunstewi/interviewer) - this app allows users to prepare for technical interviews with the help of ai.
+- [spender](https://github.com/kunstewi/spender) - this is a expense tracker app with an interactive dashboard to control expenses.
 
 ### games (vanilla js)
 - [chess](https://github.com/kunstewi/chess) - a chess game with features like playing with friends, chess clock.
