@@ -11,7 +11,6 @@
 - [noteflow](https://github.com/kunstewi/noteflow-landing) - a beautiful landing page made with react.js, vite and tailwind css.
 
 ### landing pages (next.js)
-- [blockforge](https://github.com/kunstewi/blockforge) - a beautiful landing page made with astro, next.js and tailwind css.
 - [startup](https://github.com/kunstewi/startup-landing) - a beautiful landing page made with next.js and tailwind css.
 - [venture](https://github.com/kunstewi/venture) - A beautiful landing page made with next.js and tailwind css.
 - [progress](https://github.com/kunstewi/progress-landing) - a beautiful landing page made with next.js and tailwind css.
