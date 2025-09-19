@@ -15,6 +15,8 @@
 - [blogger](https://github.com/kunstewi/blogger) - this is a blog app with markdown support and ai powered blog post generator.
 - [interviewer](https://github.com/kunstewi/interviewer) - this app allows users to prepare for technical interviews with the help of ai.
 - [spender](https://github.com/kunstewi/spender) - this is a expense tracker app with an interactive dashboard to control expenses.
+- [invoice](https://github.com/kunstewi/spender) - this is an ai powered invoice generator web app made with mongodb, react, node and express.
+
 
 ### games (vanilla js)
 - [chess](https://github.com/kunstewi/chess) - a chess game with features like playing with friends, chess clock.
