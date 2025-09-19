@@ -6,7 +6,6 @@
 - [pet-adoption](https://github.com/kunstewi/pet-adoption-website) - a beautiful landing page for a pet adoption agency shop.
 
 ### landing pages (vite + react)
-- [smartnotes](https://github.com/kunstewi/smartnotes-landing) - a beautiful landing page made with react.js, vite and tailwind css.
 - [yodora](https://github.com/kunstewi/yodora-landing) - a beautiful landing page made with react.js, vite and tailwind css.
 - [noteflow](https://github.com/kunstewi/noteflow-landing) - a beautiful landing page made with react.js, vite and tailwind css.
 
