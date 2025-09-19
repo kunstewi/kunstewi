@@ -10,11 +10,6 @@
 - [yodora](https://github.com/kunstewi/yodora-landing) - a beautiful landing page made with react.js, vite and tailwind css.
 - [noteflow](https://github.com/kunstewi/noteflow-landing) - a beautiful landing page made with react.js, vite and tailwind css.
 
-### landing pages (next.js)
-- [startup](https://github.com/kunstewi/startup-landing) - a beautiful landing page made with next.js and tailwind css.
-- [venture](https://github.com/kunstewi/venture) - A beautiful landing page made with next.js and tailwind css.
-- [progress](https://github.com/kunstewi/progress-landing) - a beautiful landing page made with next.js and tailwind css.
-
 ### web apps (vite + node.js)
 - [achiever](https://github.com/kunstewi/achiever) - this is a task management web app with progress tracking for teams and personal use.
 - [blogger](https://github.com/kunstewi/blogger) - this is a blog app with markdown support and ai powered blog post generator.
