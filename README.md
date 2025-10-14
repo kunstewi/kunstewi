@@ -2,7 +2,6 @@
 
 ### landing pages (html, css, js)
 - [restaurant](https://github.com/kunstewi/the-banquet) - a beautiful landing page of a high end retaurant with menu and contact sections.
-- [real-estate](https://github.com/kunstewi/real-estate-website) - a beautiful landing page of a real estate company that showcases properties, prices and perks.
 - [pet-adoption](https://github.com/kunstewi/pet-adoption-website) - a beautiful landing page for a pet adoption agency shop.
 
 ### landing pages (vite + react)
