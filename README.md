@@ -15,6 +15,7 @@
 - [spender](https://github.com/kunstewi/spender) - this is a expense tracker app with an interactive dashboard to control expenses.
 - [invoice](https://github.com/kunstewi/invoice) - this is an ai powered invoice generator web app made with mongodb, react, node and express.
 - [resume-ai](https://github.com/kunstewi/resume-ai) - this is an ai powered resume generator web app made with mongodb, react, node and express.
+- [ebook](https://github.com/kunstewi/ebook) - this is an ai powered ebook generator and reader web app made with mongodb, react, node and express.
 
 
 
