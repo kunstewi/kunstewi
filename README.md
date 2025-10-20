@@ -26,3 +26,5 @@
 ### deep tech projects
 
 - [c-http-server](https://github.com/kunstewi/c-http-server) - a http server written in c from scratch.
+- [rest-api](https://github.com/kunstewi/rest-api) - a rest api with node js server and mongo db written in typescript.
+
