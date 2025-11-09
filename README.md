@@ -7,6 +7,8 @@
 ### landing pages (vite + react)
 - [yodora](https://github.com/kunstewi/yodora-landing) - a beautiful landing page made with react.js, vite and tailwind css.
 - [noteflow](https://github.com/kunstewi/noteflow-landing) - a beautiful landing page made with react.js, vite and tailwind css.
+- [travel](https://github.com/kunstewi/travel) - a beautiful landing page for travel agency website.
+
 
 ### web apps (vite + node.js)
 - [achiever](https://github.com/kunstewi/achiever) - this is a task management web app with progress tracking for teams and personal use.
