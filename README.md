@@ -65,12 +65,3 @@
 
 - **[NestJS Backend](https://github.com/kunstewi/nest-backend)**  
   A production-grade backend application built with NestJS.
-
-
-## 📌 Tech Stack
-
-**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-**Backend:** Node.js, Express, NestJS  
-**Databases:** MongoDB  
-**Languages:** JavaScript, TypeScript, C  
-**Tooling:** Vite, Git, GitHub
