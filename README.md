@@ -1,33 +1,99 @@
-# portfolio ; )
+# 🚀 Portfolio
 
-### landing pages (html, css, js)
-- [restaurant](https://github.com/kunstewi/the-banquet) - a beautiful landing page of a high end retaurant with menu and contact sections.
-- [pet-adoption](https://github.com/kunstewi/pet-adoption-website) - a beautiful landing page for a pet adoption agency shop.
+A curated collection of my projects across **frontend, full-stack web apps, games, and deep-tech systems**.  
+These projects showcase my skills in **HTML, CSS, JavaScript, React, Node.js, TypeScript, MongoDB, C, and backend architecture**.
 
-### landing pages (vite + react)
-- [yodora](https://github.com/kunstewi/yodora-landing) - a beautiful landing page made with react.js, vite and tailwind css.
-- [noteflow](https://github.com/kunstewi/noteflow-landing) - a beautiful landing page made with react.js, vite and tailwind css.
-- [travel](https://github.com/kunstewi/travel) - a beautiful landing page for travel agency website.
+---
 
+## 🌐 Landing Pages (HTML, CSS, JavaScript)
 
-### web apps (vite + node.js)
-- [achiever](https://github.com/kunstewi/achiever) - this is a task management web app with progress tracking for teams and personal use.
-- [blogger](https://github.com/kunstewi/blogger) - this is a blog app with markdown support and ai powered blog post generator.
-- [interviewer](https://github.com/kunstewi/interviewer) - this app allows users to prepare for technical interviews with the help of ai.
-- [spender](https://github.com/kunstewi/spender) - this is a expense tracker app with an interactive dashboard to control expenses.
-- [invoice](https://github.com/kunstewi/invoice) - this is an ai powered invoice generator web app made with mongodb, react, node and express.
-- [resume](https://github.com/kunstewi/resume) - this is an ai powered resume generator web app made with mongodb, react, node and express.
-- [ebook](https://github.com/kunstewi/ebook) - this is an ai powered ebook generator and reader web app made with mongodb, react, node and express.
+Simple, fast, and responsive landing pages built with vanilla web technologies.
 
+- **[The Banquet](https://github.com/kunstewi/the-banquet)**  
+  A high-end restaurant landing page featuring menu and contact sections.
 
+- **[Pet Adoption](https://github.com/kunstewi/pet-adoption-website)**  
+  A clean and friendly landing page for a pet adoption agency.
 
-### games (vanilla js)
-- [chess](https://github.com/kunstewi/chess) - a chess game with features like playing with friends, chess clock.
-- [bricks](https://github.com/kunstewi/brickball) - a bricks and ball game made using vanilla js.
+---
 
-### deep tech projects
+## ⚛️ Landing Pages (Vite + React)
 
-- [c-http-server](https://github.com/kunstewi/c-http-server) - a http server written in c from scratch.
-- [rest-api](https://github.com/kunstewi/rest-api) - a rest api with node js server and mongo db written in typescript.
-- [nest-js-backend](https://github.com/kunstewi/nest-backend) - a production grade backend written in nest js.
+Modern landing pages built using **React, Vite, and Tailwind CSS**.
 
+- **[Yodora](https://github.com/kunstewi/yodora-landing)**  
+  A visually appealing React-based landing page with smooth UI.
+
+- **[NoteFlow](https://github.com/kunstewi/noteflow-landing)**  
+  A modern landing page for a note-taking product.
+
+- **[Travel](https://github.com/kunstewi/travel)**  
+  A landing page for a travel agency website.
+
+---
+
+## 🧩 Web Applications (Vite + Node.js)
+
+Full-stack web applications with real-world use cases.
+
+- **[Achiever](https://github.com/kunstewi/achiever)**  
+  A task management app with progress tracking for teams and individuals.
+
+- **[Blogger](https://github.com/kunstewi/blogger)**  
+  A blog platform with Markdown support and an AI-powered blog post generator.
+
+- **[Interviewer](https://github.com/kunstewi/interviewer)**  
+  An AI-assisted platform to prepare for technical interviews.
+
+- **[Spender](https://github.com/kunstewi/spender)**  
+  An expense tracker with an interactive dashboard for managing finances.
+
+- **[Invoice](https://github.com/kunstewi/invoice)**  
+  An AI-powered invoice generator built with MongoDB, React, Node.js, and Express.
+
+- **[Resume](https://github.com/kunstewi/resume)**  
+  An AI-powered resume generator using MongoDB, React, Node.js, and Express.
+
+- **[Ebook](https://github.com/kunstewi/ebook)**  
+  An AI-powered ebook generator and reader web application.
+
+---
+
+## 🎮 Games (Vanilla JavaScript)
+
+Browser-based games built from scratch using plain JavaScript.
+
+- **[Chess](https://github.com/kunstewi/chess)**  
+  A chess game with features like multiplayer support and a chess clock.
+
+- **[Brick Ball](https://github.com/kunstewi/brickball)**  
+  A classic bricks-and-ball arcade game.
+
+---
+
+## ⚙️ Deep Tech & Backend Projects
+
+Projects focused on **systems, backend engineering, and low-level programming**.
+
+- **[C HTTP Server](https://github.com/kunstewi/c-http-server)**  
+  A fully functional HTTP server written from scratch in C.
+
+- **[REST API](https://github.com/kunstewi/rest-api)**  
+  A RESTful API built using Node.js, MongoDB, and TypeScript.
+
+- **[NestJS Backend](https://github.com/kunstewi/nest-backend)**  
+  A production-grade backend application built with NestJS.
+
+---
+
+## 📌 Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+**Backend:** Node.js, Express, NestJS  
+**Databases:** MongoDB  
+**Languages:** JavaScript, TypeScript, C  
+**Tooling:** Vite, Git, GitHub
+
+---
+
+⭐ If you find these projects interesting, feel free to explore the repositories and leave a star!
