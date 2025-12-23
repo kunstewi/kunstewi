@@ -1,6 +1,6 @@
 # portfolio ; )
 
-### landing pages (html + css + js)
+### - landing pages (html + css + js)
 - [restaurant-landing-page](https://github.com/kunstewi/the-banquet)
 - [pet-adoption-landing-page](https://github.com/kunstewi/pet-adoption-website)
 
