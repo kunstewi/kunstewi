@@ -5,7 +5,7 @@
 - [yodora-landing-page](https://github.com/kunstewi/yodora-landing) ( vite, react, tailwindcss )
 - [noteflow-landing-page](https://github.com/kunstewi/noteflow-landing) ( vite, react, tailwindcss )
 - [travel-landing-page](https://github.com/kunstewi/travel) ( vite, react, tailwindcss )
-- [team-task-management-app](https://github.com/kunstewi/achiever) ( vite, react, tailwindcss, nodejs, express, mongodb )
+- [team-task-management-web-app](https://github.com/kunstewi/achiever) ( vite, react, tailwindcss, nodejs, express, mongodb )
 - [blogging-web-app](https://github.com/kunstewi/blogger) ( vite, react, tailwindcss, nodejs, express, mongodb )
 - [interview-prep-web-app](https://github.com/kunstewi/interviewer) ( vite, react, tailwindcss, nodejs, express, mongodb )
 - [expense-tracker-web-app](https://github.com/kunstewi/spender) ( vite, react, tailwindcss, nodejs, express, mongodb )
