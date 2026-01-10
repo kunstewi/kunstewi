@@ -22,4 +22,4 @@
 
 - [learnings](https://github.com/kunstewi/learnings) ( documenting everything i have learned or currently learning )
 
-- whatever
+
