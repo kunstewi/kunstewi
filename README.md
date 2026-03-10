@@ -18,8 +18,5 @@
 - [production-rest-api](https://github.com/kunstewi/rest-api) ( nodejs, express, typescript, mongodb )
 - [nest-js-backend](https://github.com/kunstewi/nest-backend) ( nestjs, typescript )
 
----
-
-- [learnings](https://github.com/kunstewi/learnings) ( documenting everything i have learned or currently learning )
 
 
