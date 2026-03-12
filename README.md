@@ -1,4 +1,4 @@
-# portfolio ; ) - [kanai.site](https://kanai.site/)
+# portfolio ; ) 
 
 - [restaurant-landing-page](https://github.com/kunstewi/the-banquet) ( html, css, js )
 - [pet-adoption-landing-page](https://github.com/kunstewi/pet-adoption-website) ( html, css, js )
